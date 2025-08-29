@@ -7,4 +7,5 @@ Wednnesday Law website (IN DEVELOPMENT): https://www.wednesdaylaw.com/ && https:
 [Personal Color Picker Demo](color-picker.html)
 
 Important Historical Videos
+- [Do Not Click](https://youtu.be/dQw4w9WgXcQ?si=A4rQrGNQ4iSpLATq)
 - [The Screaming Goat](https://youtu.be/SIaFtAKnqBU?si=M7UfUQ0mMBy19xzh)
